@@ -1,5 +1,5 @@
-# BTODemand
-This repo houses my masters thesis which studies the effects of the Prime Location Housing reform on speculative housing demand in Singapore.
+# Singapore Housing Demand: Causal Forest Difference in Difference
+This repo houses my masters thesis which studies the effects of the Prime Location Housing reform on speculative housing demand in Singapore using Causal Forest Difference in Difference.
 
 It includes 
 1) My masters thesis
